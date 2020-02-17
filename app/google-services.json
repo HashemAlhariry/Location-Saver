@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855162200592",
+    "firebase_url": "https://locationsaver-cca6c.firebaseio.com",
+    "project_id": "locationsaver-cca6c",
+    "storage_bucket": "locationsaver-cca6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855162200592:android:c22f1a2108b40798dde095",
+        "android_client_info": {
+          "package_name": "com.example.locationsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855162200592-o623no9qnquhnffcf2g4hl7j7vm6bkcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationsaver",
+            "certificate_hash": "180d3c084fda0678e2e49e55148dd364fe670d05"
+          }
+        },
+        {
+          "client_id": "855162200592-g86ebrmrba4cl00h1fbm83iq8sfr9heh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD305aUk8MA7mVrwTmv2Ol2boCmiSGyCYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855162200592-g86ebrmrba4cl00h1fbm83iq8sfr9heh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

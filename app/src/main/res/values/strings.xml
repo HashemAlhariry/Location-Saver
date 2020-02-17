@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationSaver</string>
+    <string name="enter_location_name">Enter location name</string>
+    <string name="saves_your_location">saves your location</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
